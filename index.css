@@ -1,0 +1,14 @@
+.col1 {
+	border: 2px solid red !important;
+}
+
+.col2 {
+	border: 2px solid blue;
+}
+
+.col3 {
+	border: 2px solid green;
+}
+.submit {
+	background-color: red!important;
+}

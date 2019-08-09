@@ -1,0 +1,22 @@
+.col-first {
+	border: 2px solid red !important;
+}
+
+.col-second {
+	border: 2px solid blue;
+}
+
+.col-tri {
+	border: 2px solid green;
+}
+
+.col-qutre {
+border: 2px solid black;
+}
+
+.col-cinq {
+border: 2px solid pink;
+}
+.slim {
+	background-color: red !important;
+}
